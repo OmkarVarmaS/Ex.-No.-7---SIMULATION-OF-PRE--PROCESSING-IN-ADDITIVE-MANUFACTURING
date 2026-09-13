@@ -45,8 +45,28 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Step 1:
+<img width="1380" height="702" alt="image" src="https://github.com/user-attachments/assets/97075b08-f88c-476c-838d-2cdb42025b32" />
+
+### Step 2:
+<img width="1381" height="697" alt="image" src="https://github.com/user-attachments/assets/b4eb9748-a284-4d1a-a5ad-43e20a22365d" />
+
+### Step 3:
+<img width="1381" height="701" alt="image" src="https://github.com/user-attachments/assets/a7f627e0-f346-47bd-9496-9bcbba4ce0bb" />
+
+### Step 4:
+<img width="1382" height="702" alt="image" src="https://github.com/user-attachments/assets/5860b924-1f38-4b84-81d7-68a6dc4bb9f7" />
+
+### Step 5:
+<img width="1377" height="697" alt="image" src="https://github.com/user-attachments/assets/e517cb1f-7662-4e15-b253-54750f4077ac" />
+
+### Step 6:
+<img width="1382" height="702" alt="image" src="https://github.com/user-attachments/assets/16ad4230-3a10-4653-bf4f-cdaf50e93b7d" />
+
+
+
+### Name: Omkar Varma S
+### Register Number: 212224240108
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
